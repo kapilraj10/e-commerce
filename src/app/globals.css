@@ -131,3 +131,7 @@
     @apply bg-background text-foreground;
     }
 }
+.hoverEffect{
+    @apply transition-all duration-400 ease-in-out;
+}
+
